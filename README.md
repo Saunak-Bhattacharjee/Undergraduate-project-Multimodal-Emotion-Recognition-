@@ -94,8 +94,6 @@ This project proposes a **multi-modal deep learning pipeline** that:
 | M2FNet (Chudasama et al., 2022)      | 67.85        |
 | **Our Proposed Method**             | **70.49**    |
 
-📌 **Suggested Figure** → Include training & validation **loss curves** here  
-(_Use Fig.15 and Fig.16 from your thesis_).
 
 ---
 
