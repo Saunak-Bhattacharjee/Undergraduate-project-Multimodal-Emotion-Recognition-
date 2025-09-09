@@ -19,7 +19,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 
 ---
 
-## 🧠 Features
+## Features
 
 - **Multi-modal Fusion**: Combines speech and text features for enhanced performance.
 - **MobileBERT Integration**: Lightweight transformer for efficient textual representation.
@@ -83,7 +83,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 
 ---
 
-## 📈 Results
+## Results
 
 | Method                                | Accuracy (%) |
 |--------------------------------------|--------------|
@@ -93,14 +93,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 | **Our Proposed Method**             | **70.49**    |
 
 
----
 
-## 🚀 Installation & Usage
-
-### **1. Clone the repository**
-```bash
-git clone https://github.com/<your-username>/multi-modal-emotion-recognition.git
-cd multi-modal-emotion-recognition
 
 
 
