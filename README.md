@@ -6,7 +6,7 @@ This project combines **MobileBERT-based textual embeddings** and **MFCC-based a
 ---
 
 The code is in the zip folder named MMERonMELD as a .ipynb file 
-## 📌 Overview
+## Overview
 
 Understanding human emotions through multiple modalities has numerous real-world applications, including **mental health monitoring**, **customer sentiment analysis**, **education technology**, and **human-computer interaction**.
 
@@ -47,7 +47,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 
 ---
 
-## 🏗️ Methodology
+## Methodology
 
 ### **1. Audio Feature Extraction**
 - Converted `.mp4` files to `.wav` using **PyDub**.
@@ -65,9 +65,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 - **Text Sub-network**: CNN with Dense + BatchNorm layers.
 - **Fusion Layer**: Concatenation → Dense layers → Softmax classification.
 
-📌 **Suggested Figure** → Add a **model architecture diagram** here  
-(_Recommended_: Use Fig.14 from your thesis for clarity.)
-
+![model architecture](Figures/modelarchit.png)
 ---
 
 ## ⚙️ Implementation Details
