@@ -33,7 +33,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### **MELD Dataset**  
 [MELD: Multimodal EmotionLines Dataset](https://github.com/SenticNet/MELD)  
@@ -68,7 +68,7 @@ This project proposes a **multi-modal deep learning pipeline** that:
 ![model architecture](Figures/modelarchit.png)
 ---
 
-## ⚙️ Implementation Details
+## Implementation Details
 
 | Component       | Configuration                        |
 |-----------------|-------------------------------------|
