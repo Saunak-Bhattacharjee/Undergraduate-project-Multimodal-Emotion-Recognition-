@@ -5,6 +5,7 @@ This project combines **MobileBERT-based textual embeddings** and **MFCC-based a
 
 ---
 
+The code is in the zip folder named MMERonMELD as a .ipynb file 
 ## 📌 Overview
 
 Understanding human emotions through multiple modalities has numerous real-world applications, including **mental health monitoring**, **customer sentiment analysis**, **education technology**, and **human-computer interaction**.
